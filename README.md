@@ -3,4 +3,4 @@ leaflet-earthquakes
 
 Output : 
 
-![output](/solved/output.jpg)
+![output](solved/output.jpg)
